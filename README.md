@@ -2,8 +2,8 @@
 simple block chain demo
 
 # Run and Installation
-  > python BCdemo01/littleblockchain.py
-    Result:
+  > python BCdemo01/littleblockchain.py  
+    ## Result:
     
     """
     Previous Hash:
